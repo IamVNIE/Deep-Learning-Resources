@@ -132,3 +132,7 @@ with Skip Connection and Network in Network](https://arxiv.org/pdf/1707.05425.pd
 
 ### Special thanks
 - [Tensorflow Top to Bottom](https://github.com/astorfi/TensorFlow-World-Resources)
+
+
+### Research Overview and Papers
+- [An excellent repo of selected summaries of research paper](https://github.com/aleju/papers)
