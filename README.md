@@ -1,6 +1,6 @@
 # Deep-Learning-Resources
 
-**TL;DR** List of resources to learn deep learning
+List of resources to learn deep learning
 
 
 ### 0. Python for Starters
