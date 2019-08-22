@@ -2,8 +2,10 @@
 
 List of resources to learn deep learning
 
+### -> DATASET LISTS
+- [List of the biggest machine learning datasets from across the web.](https://www.datasetlist.com/)
 
-### 0. Python for Starters
+### 0 Python for Starters
 
 - [Cheat sheet](http://datasciencefree.com/python.pdf)
 
