@@ -3,7 +3,7 @@
 List of resources to learn deep learning
 
 ### -> DATASET LISTS
-- [List of Tiny Datasets for experimenting with Deeplearning Algorithms.](https://github.com/IamVNIE/AI-Datasets)
+- [Tiny Datasets for experimenting with Deeplearning Algorithms.](https://github.com/IamVNIE/AI-Datasets)
 - [List of the biggest machine learning datasets from across the web.](https://www.datasetlist.com/)
 
 ### 0 Python for Starters
